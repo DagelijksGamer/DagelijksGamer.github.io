@@ -1,0 +1,59 @@
+body{
+	background-color: #c0e4ef;
+	margin: 0;
+	font-family:Trebuchet, Geneva, sans-serif;
+}
+.bodycontents, .mainTitle, .mainTitleSubText{
+	margin: 0px 30% 9px 30%;
+}
+.mainTitlesubText{
+	margin-bottom: 15px;
+}
+.head{
+	background-color: #42d1f4;
+	font-size: 175%;
+	width: 100%;
+	margin: 0px;
+	align-content: center;
+	height: 105px;
+}
+.boxHeader{
+	height: 25px;
+	margin-right: 20px;
+}
+.airportBox{
+	height: 300px;
+	background-color: #42d1f4;
+	border-radius: 7px;
+	margin-bottom: 20px;
+}
+.boxHeader{
+	height: 25px;
+}
+.welcomeText{
+	font-size: 130%
+}
+.boxName{
+	font-size: 150%;
+	margin-left: 20px;
+}
+.spaceText{
+	font-size: 10%;
+	color: #42d1f4;
+}
+a{
+	text-decoration-style: none;
+	text-decoration: none;
+	color: black;
+}
+.airportBoxContents{
+	width: 100%;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.airportData{
+	width: 50%;
+}
+.image{
+	width: 30%;
+}
